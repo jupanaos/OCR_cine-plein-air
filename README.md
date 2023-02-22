@@ -1,3 +1,4 @@
-# cinema_pleinair
+# 🟣 Ciné plein air
+## A simple frontend integration
 
-An Openclassrooms project.
+A layout integration for a cinema festival, using only plain HTML and CSS.
